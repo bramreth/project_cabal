@@ -1,0 +1,32 @@
+<list>
+  <com.labac.Citizen>
+    <name>EXAMPLE1</name>
+    <type defined-in="com.labac.Card">CITIZEN</type>
+    <cost>1</cost>
+    <effect></effect>
+    <power>1</power>
+    <type>CITIZEN1</type>
+  </com.labac.Citizen>
+  <com.labac.Citizen>
+    <name>EXAMPLE2</name>
+    <type defined-in="com.labac.Card">CITIZEN</type>
+    <cost>2</cost>
+    <effect></effect>
+    <power>3</power>
+    <type>CITIZEN2</type>
+  </com.labac.Citizen>
+  <com.labac.Plot>
+    <name>PLOT1</name>
+    <type defined-in="com.labac.Card">CITIZEN</type>
+    <cost>1</cost>
+    <effect></effect>
+    <type>PLOT1</type>
+  </com.labac.Plot>
+  <com.labac.Plot>
+    <name>PLOT2</name>
+    <type defined-in="com.labac.Card">CITIZEN</type>
+    <cost>2</cost>
+    <effect></effect>
+    <type>PLOT2</type>
+  </com.labac.Plot>
+</list>
